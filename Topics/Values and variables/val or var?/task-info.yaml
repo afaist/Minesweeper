@@ -1,0 +1,10 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {    \n    // Do not touch the line above\n    val number = 2\n\
+    \    number = 5\n    // Do not touch the lines below\n    print(number)\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7307#comment
+status: Solved
+record: -1

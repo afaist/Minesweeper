@@ -1,0 +1,11 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {    \n    // Fix declaration. Do not touch the lines above\n\
+    \    a = 512343\n    b = 3431231\n    // Do not touch the lines below\n    println(\"\
+    $a $b\")\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4385#comment
+status: Solved
+record: -1

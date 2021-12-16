@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Minesweeper.Minesweeper-task-build-classes-java.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-classes-kotlin.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-reports-tests.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-test-results.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task-build-tmp.main" target="11" />
+      <module name="Minesweeper.Minesweeper-task.main" target="11" />
+      <module name="Minesweeper.Topics-Declaring_classes-Pseudo-constructor.main" target="11" />
+      <module name="Minesweeper.Topics-Declaring_classes-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-For_loop_and_lists-For_loops_task.main" target="11" />
+      <module name="Minesweeper.Topics-For_loop_and_lists-Individual_taxes.main" target="11" />
+      <module name="Minesweeper.Topics-For_loop_and_lists-Number_in_a_set.main" target="11" />
+      <module name="Minesweeper.Topics-For_loop_and_lists-The_index_of_the_first_max.main" target="11" />
+      <module name="Minesweeper.Topics-For_loop_and_lists-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-For_loop_and_lists-Triples.main" target="11" />
+      <module name="Minesweeper.Topics-Nested_and_inner_classes-Christmas_tree.main" target="11" />
+      <module name="Minesweeper.Topics-Nested_and_inner_classes-Clothing_problem.main" target="11" />
+      <module name="Minesweeper.Topics-Nested_and_inner_classes-Heroes_and_villains.main" target="11" />
+      <module name="Minesweeper.Topics-Nested_and_inner_classes-Improve_your_vehicle.main" target="11" />
+      <module name="Minesweeper.Topics-Nested_and_inner_classes-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="Minesweeper.Topics-Processing_strings-Number_of_occurrences.main" target="11" />
+      <module name="Minesweeper.Topics-Processing_strings-Palindrome.main" target="11" />
+      <module name="Minesweeper.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
+      <module name="Minesweeper.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Random-Predictable__random__password.main" target="11" />
+      <module name="Minesweeper.Topics-Random-Roll_the_dice.main" target="11" />
+      <module name="Minesweeper.Topics-Random-Temperature_generator.main" target="11" />
+      <module name="Minesweeper.Topics-Random-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Scopes-Cyclist.main" target="11" />
+      <module name="Minesweeper.Topics-Scopes-Power_and_scopes.main" target="11" />
+      <module name="Minesweeper.Topics-Scopes-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Scopes-Unlucky_one.main" target="11" />
+      <module name="Minesweeper.Topics-Standard_output-Amount_on_the_account.main" target="11" />
+      <module name="Minesweeper.Topics-Standard_output-Correct_the_code.main" target="11" />
+      <module name="Minesweeper.Topics-Standard_output-From_0_to_9.main" target="11" />
+      <module name="Minesweeper.Topics-Standard_output-Print_a_triangle.main" target="11" />
+      <module name="Minesweeper.Topics-Standard_output-Print_code.main" target="11" />
+      <module name="Minesweeper.Topics-Standard_output-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Standard_output-Tic-Tac-Toe.main" target="11" />
+      <module name="Minesweeper.Topics-Standard_output-We_need_to_learn_Kotlin.main" target="11" />
+      <module name="Minesweeper.Topics-Values_and_variables-Fix_declarations.main" target="11" />
+      <module name="Minesweeper.Topics-Values_and_variables-Fix_the_program.main" target="11" />
+      <module name="Minesweeper.Topics-Values_and_variables-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Values_and_variables-val_or_var_.main" target="11" />
+      <module name="Minesweeper.util.main" target="11" />
+      <module name="Predictable &quot;random&quot; password.Minesweeper.Topics-Random-Predictable__random__password.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

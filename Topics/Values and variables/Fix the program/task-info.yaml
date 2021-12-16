@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val string = "Hello, World!"
+        string = "Hello, Kotlin!"
+        println(string)
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4615#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 12 Dec 2021 08:16:13 UTC
+record: -1
